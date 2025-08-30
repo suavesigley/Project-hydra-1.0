@@ -24,8 +24,11 @@ Phase 1: Hardware Diagnosis & Troubleshooting
 This walkthrough details the initial diagnosis process for each of my computers and the solutions I implemented.
 
 My Profiles
+
 GitHub: https://github.com/suavesigley
+
 LinkedIn: www.linkedin.com/in/joshuasigley-cybersec0
+
 TryHackMe: https://tryhackme.com/p/suavesigley
 
 Certifications:
