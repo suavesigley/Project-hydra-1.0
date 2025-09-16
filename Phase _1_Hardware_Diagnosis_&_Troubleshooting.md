@@ -1,7 +1,9 @@
 Phase 1: Hardware Diagnosis & Troubleshooting
 
 Goal: To diagnose and identify the hardware issues with all five non-working computers.
-![before](images/p1.1.jfif) ![before](images/p1.0.jfif)
+<img src="images/p1.0.jfif" width="50%" alt="Image description">
+<img src="images/p1..jfif" width="50%" alt="Image description">
+
 Key Tasks: Used a SystemRescue USB to boot each machine, run hardware diagnostic tests on the CPU and hard drives, and visually inspect components like RAM and hard drive connectors.
 
 Outcome: Identified the desktop needed an SSD and DDR3/DDR3L RAM and that the laptops had issues ranging from failed hard drives to a failed CPU. Repaired the desktop by installing a 1TB SSD and two new RAM sticks.
