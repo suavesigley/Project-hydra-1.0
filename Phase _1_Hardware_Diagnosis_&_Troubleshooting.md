@@ -1,5 +1,6 @@
 Phase 1: Hardware Diagnosis & Troubleshooting
 <table>
+  <caption>My IT Home Lab: The Four PCs</caption>
   <tr>
     <td>
       <img src="images/pc1.jfif" width="100%" alt="Alt text for image 1">
@@ -15,7 +16,7 @@ Phase 1: Hardware Diagnosis & Troubleshooting
     </td>
   </tr>
 </table>
-Goal: To diagnose and identify the hardware issues with all five non-working computers.
+Goal: To diagnose and identify the hardware issues with all four non-working computers.
 <table>
   <tr>
     <td>
