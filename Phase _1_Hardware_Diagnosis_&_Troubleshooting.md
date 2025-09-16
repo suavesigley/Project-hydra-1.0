@@ -1,5 +1,20 @@
 Phase 1: Hardware Diagnosis & Troubleshooting
-
+<table>
+  <tr>
+    <td>
+      <img src="images/pc1.jfif" width="100%" alt="Alt text for image 1">
+    </td>
+    <td>
+      <img src="images/pc2.jfif" width="100%" alt="Alt text for image 2">
+    </td>
+    <td>
+      <img src="images/pc3.jfif" width="100%" alt="Alt text for image 3">
+    </td>
+    <td>
+      <img src="images/pc4.jfif" width="100%" alt="Alt text for image 4">
+    </td>
+  </tr>
+</table>
 Goal: To diagnose and identify the hardware issues with all five non-working computers.
 <table>
   <tr>
