@@ -15,7 +15,7 @@ Phase 1: Hardware Diagnosis & Troubleshooting
     </td>
   </tr>
 </table>
-Goal: To diagnose and identify the hardware issues with all five non-working computers.
+Goal: To diagnose and identify the hardware issues with all four non-working computers.
 <table>
   <tr>
     <td>
