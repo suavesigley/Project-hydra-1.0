@@ -43,7 +43,7 @@ Key Tasks: Used a SystemRescue USB to boot each machine, run hardware diagnostic
       <img src="images/p1.17.jfif" width="100%" alt="Alt text for image 1">
     </td>
     <td>
-      <img src="images/ventoy.jfif" width="100%" alt="Alt text for image 2">
+      <img src="images/Bios.jfif" width="100%" alt="Alt text for image 2">
     </td>
     <td>
       <img src="images/p1.4.jfif" width="100%" alt="Alt text for image 3">
