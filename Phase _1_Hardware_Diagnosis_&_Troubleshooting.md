@@ -2,7 +2,7 @@ Phase 1: Hardware Diagnosis & Troubleshooting
 
 Goal: To diagnose and identify the hardware issues with all five non-working computers.
 <img src="images/p1.0.jfif" width="50%" alt="Image description">
-<img src="images/p1..jfif" width="50%" alt="Image description">
+<img src="images/p1.1.jfif" width="50%" alt="Image description">
 
 Key Tasks: Used a SystemRescue USB to boot each machine, run hardware diagnostic tests on the CPU and hard drives, and visually inspect components like RAM and hard drive connectors.
 
