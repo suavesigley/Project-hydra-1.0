@@ -1,5 +1,6 @@
 Phase 1: Hardware Diagnosis & Troubleshooting
 <table>
+  <caption>**My IT Home Lab: The Four PCs**</caption>
   <tr>
     <td>
       <img src="images/pc1.jfif" width="100%" alt="Alt text for image 1">
