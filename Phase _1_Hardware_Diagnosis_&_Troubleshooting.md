@@ -49,7 +49,7 @@ Key Tasks: Used a SystemRescue USB to boot each machine, run hardware diagnostic
       <img src="images/p1.4.jfif" width="100%" alt="Alt text for image 3">
     </td>
     <td>
-      <img src="images/p1.16.jfif" width="100%" alt="Alt text for image 4">
+      <img src="images/p1.5.jfif" width="100%" alt="Alt text for image 4">
     </td>
   </tr>
 </table>
