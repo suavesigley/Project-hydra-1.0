@@ -8,7 +8,7 @@ Phase 1: Hardware Diagnosis & Troubleshooting
       <img src="images/pc2.jfif" width="100%" alt="Alt text for image 2">
     </td>
     <td>
-      <img src="images/pc3.jfif" width="100%" alt="Alt text for image 3">
+      <img src="images/pc5.jfif" width="100%" alt="Alt text for image 3">
     </td>
     <td>
       <img src="images/pc4.jfif" width="100%" alt="Alt text for image 4">
