@@ -30,7 +30,7 @@ Goal: To diagnose and identify the hardware issues with all four non-working com
       <img src="images/p1.14.jfif" width="100%" alt="Alt text for image 3">
     </td>
     <td>
-      <img src="images/p1.3.jfif" width="100%" alt="Alt text for image 4">
+      <img src="images/dead.jfif" width="100%" alt="Alt text for image 4">
     </td>
   </tr>
 </table>
