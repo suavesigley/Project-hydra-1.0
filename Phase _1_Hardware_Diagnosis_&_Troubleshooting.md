@@ -36,5 +36,21 @@ Goal: To diagnose and identify the hardware issues with all four non-working com
 </table>
 
 Key Tasks: Used a SystemRescue USB to boot each machine, run hardware diagnostic tests on the CPU and hard drives, and visually inspect components like RAM and hard drive connectors.
-
+<table>
+    <caption>My IT Home Lab: The Four PCs start up issues</caption>
+  <tr>
+    <td>
+      <img src="images/p1.17.jfif" width="100%" alt="Alt text for image 1">
+    </td>
+    <td>
+      <img src="images/ventoy.jfif" width="100%" alt="Alt text for image 2">
+    </td>
+    <td>
+      <img src="images/kali.jfif" width="100%" alt="Alt text for image 3">
+    </td>
+    <td>
+      <img src="images/p1.16.jfif" width="100%" alt="Alt text for image 4">
+    </td>
+  </tr>
+</table>
 Outcome: Identified the desktop needed an SSD and DDR3/DDR3L RAM and that the laptops had issues ranging from failed hard drives to a failed CPU. Repaired the desktop by installing a 1TB SSD and two new RAM sticks.
