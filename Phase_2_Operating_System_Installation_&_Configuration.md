@@ -5,7 +5,7 @@ Goal: To successfully install and configure a dedicated operating system on two 
     <caption>My IT Home Lab: The Four PCs start up issues</caption>
   <tr>
     <td>
-      <img src="images/ventoy.jfif" width="100%" alt="Alt text for image 1">
+      <img src="images/ssd.jfif" width="100%" alt="Alt text for image 1">
     </td>
     <td>
       <img src="images/p1.7.jfif" width="100%" alt="Alt text for image 2">
