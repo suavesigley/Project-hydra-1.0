@@ -18,15 +18,16 @@ Phase 1: Hardware Diagnosis & Troubleshooting
 </table>
 Goal: To diagnose and identify the hardware issues with all four non-working computers.
 <table>
+    <caption>My IT Home Lab: The Four PCs start up issues</caption>
   <tr>
     <td>
-      <img src="images/p1.0.jfif" width="100%" alt="Alt text for image 1">
+      <img src="images/p1.3.jfif" width="100%" alt="Alt text for image 1">
     </td>
     <td>
       <img src="images/p1.1.jfif" width="100%" alt="Alt text for image 2">
     </td>
     <td>
-      <img src="images/p1.2.jfif" width="100%" alt="Alt text for image 3">
+      <img src="images/p1.14.jfif" width="100%" alt="Alt text for image 3">
     </td>
     <td>
       <img src="images/p1.3.jfif" width="100%" alt="Alt text for image 4">
