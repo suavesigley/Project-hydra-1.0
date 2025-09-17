@@ -51,7 +51,7 @@ Once installed, I had to edit the main configuration file, smb.conf, to create a
 
 Finally, I created user accounts on the server and granted them access to the shared folder. This allowed my two other laptops to connect to the Toshiba and access the shared files over the network. I could then use this shared space to store important project files, documents, and backups from my other home lab machines, centralising my data and simplifying my workflow.
 <table>
-    <caption>My IT Home Lab: samba up and running</caption>
+    <caption>My IT Home Lab: samba up and running on server and client pc</caption>
   <tr>
     <td>
       <img src="images/p3.0.jfif" width="100%" alt="Alt text for image 1">
