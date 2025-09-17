@@ -43,7 +43,7 @@ sudo apt install samba
       <img src="images/p1.15.jfif" width="100%" alt="Alt text for image 3">
     </td>
     <td>
-     # <img src="images/p2.d6.jfif" width="100%" alt="Alt text for image 4">
+     # <img src="images/p3.2.jfif" width="100%" alt="Alt text for image 4">
     </td>
   </tr>
 </table>
@@ -54,16 +54,10 @@ Finally, I created user accounts on the server and granted them access to the sh
     <caption>My IT Home Lab: samba up and running</caption>
   <tr>
     <td>
-      <img src="images/7c310b63-1e25-p3.1.jfif" width="100%" alt="Alt text for image 1">
+      <img src="images/p3.0.jfif" width="100%" alt="Alt text for image 1">
     </td>
     <td>
-      <img src="images/p3.0.jfif" width="100%" alt="Alt text for image 2">
-    </td>
-    <td>
-      <img src="images/p1.15.jfif" width="100%" alt="Alt text for image 3">
-    </td>
-    <td>
-      <img src="images/p2.d6.jfif" width="100%" alt="Alt text for image 4">
+      <img src="images/p1.15.jfif" width="100%" alt="Alt text for image 2">
     </td>
   </tr>
 </table>
