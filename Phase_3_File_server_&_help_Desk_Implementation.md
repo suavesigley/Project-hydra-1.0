@@ -7,7 +7,23 @@ Installed and configured Samba, a key tool for file sharing between Linux and Wi
 Created a dedicated shared folder on the Ubuntu server.
 
 Granted network access to two other laptops, demonstrating basic access control.
-
+<table>
+    <caption>My IT Home Lab: The Four PCs start up issues</caption>
+  <tr>
+    <td>
+      <img src="images/p1.13.jfif" width="100%" alt="Alt text for image 1">
+    </td>
+    <td>
+      <img src="images/p1.12.jfif" width="100%" alt="Alt text for image 2">
+    </td>
+    <td>
+      <img src="images/p1.10.jfif" width="100%" alt="Alt text for image 3">
+    </td>
+    <td>
+      <img src="images/p1.11.jfif" width="100%" alt="Alt text for image 4">
+    </td>
+  </tr>
+</table>
 The Process
 With Ubuntu Server installed on the Toshiba, the next step was to configure it as a file server. This required a piece of software called Samba, which allows Linux to share files and printers with Windows, macOS, and other operating systems over a network.
 
