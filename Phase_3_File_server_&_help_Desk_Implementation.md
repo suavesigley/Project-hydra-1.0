@@ -57,7 +57,7 @@ Finally, I created user accounts on the server and granted them access to the sh
       <img src="images/p3.0.jfif" width="100%" alt="Alt text for image 1">
     </td>
     <td>
-      <img src="images/p1.15.jfif" width="100%" alt="Alt text for image 2">
+      <img src="images/p3.1.jfif" width="100%" alt="Alt text for image 2">
     </td>
   </tr>
 </table>
