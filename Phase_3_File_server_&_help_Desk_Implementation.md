@@ -8,7 +8,7 @@ Created a dedicated shared folder on the Ubuntu server.
 
 Granted network access to two other laptops, demonstrating basic access control.
 <table>
-    <caption>My IT Home Lab: The Four PCs start up issues</caption>
+    <caption>My IT Home Lab: PCs samba start up issues</caption>
   <tr>
     <td>
       <img src="images/p1.13.jfif" width="100%" alt="Alt text for image 1">
@@ -31,7 +31,7 @@ The first step was to install the Samba package using the following command in t
 
 sudo apt install samba
 <table>
-    <caption>My IT Home Lab: The Four PCs start up issues</caption>
+    <caption>My IT Home Lab: PCs samba issues</caption>
   <tr>
     <td>
       <img src="images/7c310b63-1e25-41a6-8445-bfc9d29f4779.jfif" width="100%" alt="Alt text for image 1">
@@ -51,13 +51,13 @@ Once installed, I had to edit the main configuration file, smb.conf, to create a
 
 Finally, I created user accounts on the server and granted them access to the shared folder. This allowed my two other laptops to connect to the Toshiba and access the shared files over the network. I could then use this shared space to store important project files, documents, and backups from my other home lab machines, centralising my data and simplifying my workflow.
 <table>
-    <caption>My IT Home Lab: The Four PCs start up issues</caption>
+    <caption>My IT Home Lab: samba up and running</caption>
   <tr>
     <td>
-      <img src="images/7c310b63-1e25-41a6-8445-bfc9d29f4779.jfif" width="100%" alt="Alt text for image 1">
+      <img src="images/7c310b63-1e25-p3.1.jfif" width="100%" alt="Alt text for image 1">
     </td>
     <td>
-      <img src="images/8bc1fbd9-3117-4cd1-b1e3-fa7496ed694c.jfif" width="100%" alt="Alt text for image 2">
+      <img src="images/p3.0.jfif" width="100%" alt="Alt text for image 2">
     </td>
     <td>
       <img src="images/p1.15.jfif" width="100%" alt="Alt text for image 3">
