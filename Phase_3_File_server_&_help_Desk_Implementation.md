@@ -43,13 +43,29 @@ sudo apt install samba
       <img src="images/p1.15.jfif" width="100%" alt="Alt text for image 3">
     </td>
     <td>
-      <img src="images/p2.d6.jfif" width="100%" alt="Alt text for image 4">
+     # <img src="images/p2.d6.jfif" width="100%" alt="Alt text for image 4">
     </td>
   </tr>
 </table>
 Once installed, I had to edit the main configuration file, smb.conf, to create a new network share. I defined the path to a folder, gave it a name, and set the permissions to allow access. This is a crucial step in ensuring that the file server is both functional and secure.
 
 Finally, I created user accounts on the server and granted them access to the shared folder. This allowed my two other laptops to connect to the Toshiba and access the shared files over the network. I could then use this shared space to store important project files, documents, and backups from my other home lab machines, centralising my data and simplifying my workflow.
-
+<table>
+    <caption>My IT Home Lab: The Four PCs start up issues</caption>
+  <tr>
+    <td>
+      <img src="images/7c310b63-1e25-41a6-8445-bfc9d29f4779.jfif" width="100%" alt="Alt text for image 1">
+    </td>
+    <td>
+      <img src="images/8bc1fbd9-3117-4cd1-b1e3-fa7496ed694c.jfif" width="100%" alt="Alt text for image 2">
+    </td>
+    <td>
+      <img src="images/p1.15.jfif" width="100%" alt="Alt text for image 3">
+    </td>
+    <td>
+      <img src="images/p2.d6.jfif" width="100%" alt="Alt text for image 4">
+    </td>
+  </tr>
+</table>
 Outcome
 The Toshiba Satellite is now a reliable, centrally managed file server. This phase of the project demonstrated my ability to install and configure software, edit complex configuration files, and manage user permissions—all essential skills for a help desk or systems administration role.
