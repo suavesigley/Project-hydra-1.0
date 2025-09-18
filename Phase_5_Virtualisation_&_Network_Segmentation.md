@@ -1,7 +1,7 @@
 Phase 5: Virtualisation & Network Segmentation
 Goal: To establish a virtualised environment on the desktop, creating a private network to safely simulate real-world cyber-attacks. This phase was guided by the book "Ethical Hacking: A Hands-on Introduction to Breaking In" by Daniel G. Graham.
 <table>
-    <caption>My IT Home Lab: Install & configure virtual machines pc</caption>
+    <caption>My IT Home Lab: download virtual machines pc</caption>
   <tr>
     <td>
       <img src="images/p5.1.jfif" width="100%" alt="Alt text for image 1">
@@ -24,7 +24,23 @@ Installed and configured VirtualBox as the hypervisor.
 Deployed pfSense as the virtual firewall to create a segmented network.
 
 Built and configured three virtual machines: a Kali Linux attacker machine, a vulnerable Metasploitable target, and an Ubuntu user machine.
-
+<table>
+    <caption>My IT Home Lab: Install & configure virtual machines pc</caption>
+  <tr>
+    <td>
+      <img src="images/p5.5.jfif" width="100%" alt="Alt text for image 1">
+    </td>
+    <td>
+      <img src="images/p5.6.jfif" width="100%" alt="Alt text for image 2">
+    </td>
+    <td>
+      <img src="images/p5.7.jfif" width="100%" alt="Alt text for image 3">
+    </td>
+    <td>
+      <img src="images/p5.8.jfif" width="100%" alt="Alt text for image 4">
+    </td>
+  </tr>
+</table>
 The Process
 With the desktop now a capable server, I moved on to creating a virtual lab. This is a crucial step in ethical hacking because it allows you to practice offensive and defensive techniques without risking damage to a live network. The book "Ethical Hacking" provided a clear roadmap for this process.
 
@@ -33,6 +49,22 @@ First, I installed VirtualBox on the Ubuntu server. VirtualBox is a user-friendl
 The first VM I set up was pfSense, an open-source firewall distribution. I configured pfSense to act as a virtual router and firewall, creating a separate, secure network for my lab. This is a critical defensive skill that shows how to protect networks and control traffic.
 
 Next, I created a Kali Linux VM. This is my "attacker" machine, equipped with all the penetration testing tools I will need for later phases of the project. I also created a Metasploitable VM, which is intentionally designed with known vulnerabilities. This serves as my "target" machine for practicing exploitation. Finally, I added a standard Ubuntu desktop VM to act as a "user" machine, simulating a typical computer on a network.
-
+<table>
+    <caption>My IT Home Lab: up & running virtual machines pc</caption>
+  <tr>
+    <td>
+      <img src="images/p5.9.jfif" width="100%" alt="Alt text for image 1">
+    </td>
+    <td>
+      <img src="images/p5.10.jfif" width="100%" alt="Alt text for image 2">
+    </td>
+    <td>
+      <img src="images/p5.11.jfif" width="100%" alt="Alt text for image 3">
+    </td>
+    <td>
+      <img src="images/p5.12.jfif" width="100%" alt="Alt text for image 4">
+    </td>
+  </tr>
+</table>
 Outcome
 I successfully built a fully functional virtual lab, demonstrating my ability to use virtualisation for both offensive and defensive purposes. This isolated network allows me to safely experiment with hacking techniques, understand how vulnerabilities are exploited, and learn to protect systems from attack.
