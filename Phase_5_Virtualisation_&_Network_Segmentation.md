@@ -1,6 +1,22 @@
 Phase 5: Virtualisation & Network Segmentation
 Goal: To establish a virtualised environment on the desktop, creating a private network to safely simulate real-world cyber-attacks. This phase was guided by the book "Ethical Hacking: A Hands-on Introduction to Breaking In" by Daniel G. Graham.
-
+<table>
+    <caption>My IT Home Lab: Install & configure virtual machines pc</caption>
+  <tr>
+    <td>
+      <img src="images/p5.1.jfif" width="100%" alt="Alt text for image 1">
+    </td>
+    <td>
+      <img src="images/p5.2.jfif" width="100%" alt="Alt text for image 2">
+    </td>
+    <td>
+      <img src="images/p5.3.jfif" width="100%" alt="Alt text for image 3">
+    </td>
+    <td>
+      <img src="images/p5.4.jfif" width="100%" alt="Alt text for image 4">
+    </td>
+  </tr>
+</table>
 Key Tasks:
 
 Installed and configured VirtualBox as the hypervisor.
