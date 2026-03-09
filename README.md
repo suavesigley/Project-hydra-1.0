@@ -1,62 +1,55 @@
-# Project hydra 1.0
-IT Home Lab & Portfolio 💻
-Hello! I'm an aspiring cybersecurity professional building my skills through hands-on projects. This portfolio documents my journey from a collection of broken computers to a fully functional home lab, demonstrating my ability to diagnose, repair, and deploy IT solutions.
+# Project Hydra 1.0: Security Engineering & Infrastructure Lab
+**Portfolio by Joshua Sigley**
 
-Project Overview
-This project began with a challenge: to take five non-functional computers—one desktop and four laptops—and bring them back to life. Through a systematic approach, I’ve successfully diagnosed hardware failures, installed new components, and configured different operating systems to serve specific purposes for a help desk and cybersecurity environment.
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/suavesigley)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/joshuasigley-cybersec0)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/suavesigley)
 
-My Home Lab Specs
-Desktop: Diagnosed with a need for a new SSD and DDR3/DDR3L RAM.
-HP Pavilion Laptop: Upgraded with a new SSD and RAM to become a dedicated ethical hacking machine.
-Toshiba Satellite Laptop: Upgraded with a new SSD and configured as an Ubuntu file server.
-Other Laptops: Two additional laptops, one diagnosed with a hard drive replacement and one with a CPU failure.
-Samsung Galaxy Tab A9+: A mobile device being used for a hardware repair project (screen replacement).
+---
 
-Skills Demonstrated
-Hardware Troubleshooting & Diagnostics: Used tools like SystemRescue to identify and confirm hardware failures.
-Operating System Installation: Experience with installing and configuring various operating systems, including Kali Linux and Ubuntu Server.
-Linux Administration: Proficient in using the command line to manage a Linux server, including package installation (apt), file sharing (Samba), and remote management (SSH).
-Cybersecurity Fundamentals: Hands-on experience with ethical hacking principles, network scanning (Nmap), and secure configurations.
-IT Operations: Practiced with ticketing and asset management concepts using a self-hosted platform.
+## 🔬 Executive Summary
+Project Hydra is a multi-phase infrastructure project focused on **hardware lifecycle management** and the deployment of a **segmented virtualised laboratory**. This project demonstrates the ability to perform hardware-level diagnostics, recover decommissioned assets, and configure a secure environment for simulating enterprise-grade cyber threats and defensive workflows.
 
-Project Walkthroughs
-Phase 1: Hardware Diagnosis & Troubleshooting
-This walkthrough details the initial diagnosis process for each of my computers and the solutions I implemented.
+## 🛠️ Technical Specifications & Asset Recovery
+Rather than purchasing new equipment, this lab was engineered by diagnosing and repairing five enterprise and consumer-grade systems to serve specific roles in a security stack.
 
-## Lab Architecture
+| Asset | Technical Intervention | Lab Role |
+| :--- | :--- | :--- |
+| **Custom Desktop** | SSD Integration / DDR3L RAM Mapping | **Primary Hypervisor:** Hosts the virtualised corporate network. |
+| **HP Pavilion** | Hardware Hardening & RAM Upgrade | **Attack Platform:** Dedicated Kali Linux machine for offensive testing. |
+| **Toshiba Satellite** | Storage Expansion & OS Migration | **Log & File Server:** Ubuntu-based repository for incident data. |
+| **Samsung Tab A9+** | Component Repair (Screen/Digitizer) | **Mobile Endpoint:** Researching mobile-specific threat vectors. |
 
-Project Hydra simulates a small enterprise IT environment built through multiple implementation phases. The lab environment includes a host system running a virtualised network with multiple machines used for administration, network services, and security testing.
+## 🌐 Lab Architecture
+Project Hydra simulates a small enterprise network using a **segmented architecture** to ensure that "offensive" traffic is isolated from the home production network.
 
-The architecture allows simulation of real-world enterprise workflows including system administration, remote management, network segmentation, and security monitoring.
+> [!TIP]
+> **Insert your architecture diagram (a.png) here.**
+> Show the flow from the Kali Attacker machine to the Windows Target through the Hypervisor.
 
-### High-Level Architecture
+### Key Components:
+* **Virtualised Active Directory:** Simulates an enterprise identity environment for monitoring authentication logs and IAM policies.
+* **Network Segmentation:** Implemented to allow controlled attack simulations between the Kali Linux host and Windows endpoints.
+* **Centralised Administration:** Utilises SSH and remote management protocols to practice secure headless server administration.
 
-![Hydra Architecture](images/a.png)
+## 🛡️ Security Use Cases & SOC Workflows
+The Hydra environment is used to generate telemetry and practice incident response. Key focus areas include:
 
-The architecture consists of a host system running a hypervisor which supports multiple virtual machines connected through a segmented virtual network.
+* **Detection Baseline Engineering:** Executing Nmap reconnaissance to analyse how different scan types (TCP Connect vs. Stealth SYN) appear in system logs.
+* **Identity Threat Analysis:** Simulating brute-force and credential-stuffing attacks against Windows services to identify **Event ID 4625** (Failed Logon) patterns.
+* **Host-Based Forensics:** Using SystemRescue and command-line tools to diagnose hardware failures and "malicious" system changes.
+* **Malware Sandboxing:** Developing isolated environments for detonating suspicious files to observe behaviour and document Indicators of Compromise (IoCs).
 
-Key components include:
+## 🎓 Core Competencies Demonstrated
+* **Infrastructure & OS:** Linux Administration (Ubuntu/Kali), Windows Server, and Hypervisor management.
+* **Hardware Forensics:** Component-level troubleshooting, system recovery, and performance optimisation.
+* **Defensive Operations:** Mapping lab activity to the **MITRE ATT&CK framework** through practical simulation and log generation.
+* **IT Operations:** Practising asset management and "Help Desk" fundamentals by maintaining the lab's hardware health.
 
-• Host machine providing compute resources  
-• Hypervisor managing virtual machines  
-• Windows server providing file and administrative services  
-• Windows workstation acting as a user endpoint  
-• Kali Linux attacker system used for security testing  
-• Network segmentation enabling controlled attack simulation  
+---
 
-This environment enables practical experimentation with system administration, troubleshooting, security testing, and monitoring workflows.
-
-My Profiles
-GitHub: https://github.com/suavesigley
-LinkedIn: www.linkedin.com/in/joshuasigley-cybersec0
-TryHackMe: https://tryhackme.com/p/suavesigley
-
-Certifications:
-Security Engineer Learning Path | TryHackMe | 2024
-Introduction to Cyber Security Learning Path | TryHackMe | 2023
-Pre-security Learning Path | TryHackMe | 2023
-Introduction to Cybersecurity Job Simulation | Commonwealth Bank (via Forage) | 2025
-Data Analytics Job Simulation | Deloitte (via Forage) | 2025
-Cybersecurity Management Job Simulation | ANZ (via Forage) | 2025
-Professional Networking | LinkedIn Learning | 2025
-
+## 🏆 Certifications & Training
+* **Security Engineer Learning Path** | TryHackMe | 2024
+* **Introduction to Cyber Security** | TryHackMe | 2023
+* **Cybersecurity Management Job Simulation** | ANZ (via Forage) | 2025
+* **Data Analytics Job Simulation** | Deloitte (via Forage) | 2025
