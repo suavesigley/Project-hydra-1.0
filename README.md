@@ -23,7 +23,7 @@ Rather than purchasing new equipment, this lab was engineered by diagnosing and 
 ## 🌐 Lab Architecture
 Project Hydra simulates a small enterprise network using a **segmented architecture** to ensure that "offensive" traffic is isolated from the home production network.
 
-![Hydra Architecture](images/a.png
+![Hydra Architecture](images/a.png)
 
 ### Key Components:
 * **Virtualised Active Directory:** Simulates an enterprise identity environment for monitoring authentication logs and IAM policies.
