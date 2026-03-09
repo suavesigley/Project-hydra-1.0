@@ -31,7 +31,7 @@ The architecture allows simulation of real-world enterprise workflows including 
 
 ### High-Level Architecture
 
-![Hydra Architecture](diagrams/hydra_architecture.png)
+![Hydra Architecture](images/a.png)
 
 The architecture consists of a host system running a hypervisor which supports multiple virtual machines connected through a segmented virtual network.
 
