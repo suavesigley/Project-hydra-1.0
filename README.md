@@ -90,6 +90,11 @@ Key Tasks: Used GitHub Pages to publish a portfolio website. Wrote a professiona
 
 
 ## 🏆 Certifications & Training
+* **ISC2 Certified in Cybersecurity (CC) ** | ISC2 | 2024
+
+* **Exploring Networking with Cisco packet tracer** | Cisco Network Academy  | 2024
+* **Getting started with Cisco packet tracer** | Cisco Network Academy  | 2024
+  
 * **Security Engineer Learning Path** | TryHackMe | 2024
 * **Introduction to Cyber Security** | TryHackMe | 2023
 * **Cybersecurity Management Job Simulation** | ANZ (via Forage) | 2025
