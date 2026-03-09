@@ -23,12 +23,32 @@ Project Walkthroughs
 Phase 1: Hardware Diagnosis & Troubleshooting
 This walkthrough details the initial diagnosis process for each of my computers and the solutions I implemented.
 
+## Lab Architecture
+
+Project Hydra simulates a small enterprise IT environment built through multiple implementation phases. The lab environment includes a host system running a virtualised network with multiple machines used for administration, network services, and security testing.
+
+The architecture allows simulation of real-world enterprise workflows including system administration, remote management, network segmentation, and security monitoring.
+
+### High-Level Architecture
+
+![Hydra Architecture](diagrams/hydra_architecture.png)
+
+The architecture consists of a host system running a hypervisor which supports multiple virtual machines connected through a segmented virtual network.
+
+Key components include:
+
+• Host machine providing compute resources  
+• Hypervisor managing virtual machines  
+• Windows server providing file and administrative services  
+• Windows workstation acting as a user endpoint  
+• Kali Linux attacker system used for security testing  
+• Network segmentation enabling controlled attack simulation  
+
+This environment enables practical experimentation with system administration, troubleshooting, security testing, and monitoring workflows.
+
 My Profiles
-
 GitHub: https://github.com/suavesigley
-
 LinkedIn: www.linkedin.com/in/joshuasigley-cybersec0
-
 TryHackMe: https://tryhackme.com/p/suavesigley
 
 Certifications:
