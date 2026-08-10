@@ -87,7 +87,7 @@ Phase 10: Portfolio Creation & Final Documentation
 Goal: To create a professional portfolio that showcases all your projects and skills.
 Key Tasks: Used GitHub Pages to publish a portfolio website. Wrote a professional README.md and created individual walkthroughs for each project phase, including images and clear explanations of the outcomes.
 
-
+##
 
 ## 🏆 Certifications & Training
 * **ISC2 Certified in Cybersecurity (CC) ** | ISC2 | 2024
