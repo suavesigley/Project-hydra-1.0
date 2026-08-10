@@ -67,7 +67,7 @@ Phase 5: Virtualisation
 Goal: To set up a virtualisation platform to run multiple operating systems on a single piece of hardware.
 Key Tasks: Installed the KVM hypervisor and its management tools on the Ubuntu server. Learned to create and manage virtual machines from the command line.
 
-Phase 6: Network Scanning & Reconnaissance
+## Phase 6: Network Scanning & Reconnaissance
 Goal: To perform ethical reconnaissance against a target.
 Key Tasks: Used a network scanning tool like Nmap on your Kali Linux laptop to scan your Ubuntu server for open ports and services.
 
