@@ -45,6 +45,13 @@ The Hydra environment is used to generate telemetry and practice incident respon
 * **IT Operations:** Practising asset management and "Help Desk" fundamentals by maintaining the lab's hardware health.
 
 ---
+## Project Status
+
+**Completed:** Phases 1–5  
+**Planned:** Phases 6–10
+
+Phases 6–10 represent the planned future development of Project Hydra
+and have not yet been completed.
 Phase 1: Hardware Diagnosis & Troubleshooting
 Goal: To diagnose and identify the hardware issues with all five non-working computers.
 Key Tasks: Used a SystemRescue USB to boot each machine, run hardware diagnostic tests on the CPU and hard drives, and visually inspect components like RAM and hard drive connectors.
@@ -67,27 +74,31 @@ Phase 5: Virtualisation
 Goal: To set up a virtualisation platform to run multiple operating systems on a single piece of hardware.
 Key Tasks: Installed the KVM hypervisor and its management tools on the Ubuntu server. Learned to create and manage virtual machines from the command line.
 
-## Phase 6: Network Scanning & Reconnaissance
+Phase 6: Network Scanning & Reconnaissance
 Goal: To perform ethical reconnaissance against a target.
 Key Tasks: Used a network scanning tool like Nmap on your Kali Linux laptop to scan your Ubuntu server for open ports and services.
+**Status:** Planned — Not Yet Completed
 
 Phase 7: Vulnerability Exploitation
 Goal: To practice ethical hacking in a safe and controlled environment.
 Key Tasks: Installed a vulnerable operating system (like Metasploitable) in a KVM virtual machine on your Ubuntu server and used tools from your Kali Linux laptop to exploit its weaknesses.
+**Status:** Planned — Not Yet Completed
 
 Phase 8: Hardware Repair & Documentation
 Goal: To perform a complete hardware repair and document the entire process as a help desk ticket.
 Key Tasks: Sourced and installed a new screen on the Samsung Galaxy Tab A9+. Used a help desk ticketing platform to document the entire process from the initial issue to the final resolution.
+**Status:** Planned — Not Yet Completed
 
 Phase 9: Honeypot Deployment
 Goal: To deploy a defensive security tool that can detect and log malicious activity.
 Key Tasks: Installed and configured a honeypot on one of your systems to act as a decoy for attackers. Analysed the logs to understand common attack patterns and behaviours.
+**Status:** Planned — Not Yet Completed
 
 Phase 10: Portfolio Creation & Final Documentation
 Goal: To create a professional portfolio that showcases all your projects and skills.
 Key Tasks: Used GitHub Pages to publish a portfolio website. Wrote a professional README.md and created individual walkthroughs for each project phase, including images and clear explanations of the outcomes.
+**Status:** Planned — Not Yet Completed
 
-##
 
 ## 🏆 Certifications & Training
 * **ISC2 Certified in Cybersecurity (CC) ** | ISC2 | 2024
