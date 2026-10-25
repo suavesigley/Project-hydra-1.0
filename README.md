@@ -18,7 +18,8 @@ Rather than purchasing new equipment, this lab was engineered by diagnosing and 
 | **Custom Desktop** | SSD Integration / DDR3L RAM Mapping | **Primary Hypervisor:** Hosts the virtualised corporate network. |
 | **HP Pavilion** | Hardware Hardening & RAM Upgrade | **Attack Platform:** Dedicated Kali Linux machine for offensive testing. |
 | **Toshiba Satellite** | Storage Expansion & OS Migration | **Log & File Server:** Ubuntu-based repository for incident data. |
-
+|MacBook | No longer receives Apple updates, so replaced macOS with Ubuntu | Spare Linux endpoint|
+|Toshiba (second laptop) | Diagnosed as old and slow | [role in the lab]|
 ## 🌐 Lab Architecture
 Project Hydra simulates a small enterprise network using a **segmented architecture** to ensure that "offensive" traffic is isolated from the home production network.
 
