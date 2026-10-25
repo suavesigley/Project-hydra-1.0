@@ -75,27 +75,27 @@ Key Tasks: Installed the KVM hypervisor and its management tools on the Ubuntu s
 
 Phase 6: Network Scanning & Reconnaissance
 Goal: To perform ethical reconnaissance against a target.
-Key Tasks: Used a network scanning tool like Nmap on your Kali Linux laptop to scan your Ubuntu server for open ports and services.
+Key Tasks: Planned: use Nmap from the Kali Linux laptop to scan the Ubuntu server for open ports and services.
 **Status:** Planned — Not Yet Completed
 
 Phase 7: Vulnerability Exploitation
 Goal: To practice ethical hacking in a safe and controlled environment.
-Key Tasks: Installed a vulnerable operating system (like Metasploitable) in a KVM virtual machine on your Ubuntu server and used tools from your Kali Linux laptop to exploit its weaknesses.
+Key Tasks: Planned: deploy Metasploitable in a KVM virtual machine on the Ubuntu server and use Kali tools to exploit its weaknesses.
 **Status:** Planned — Not Yet Completed
 
 Phase 8: Hardware Repair & Documentation
 Goal: To perform a complete hardware repair and document the entire process as a help desk ticket.
-Key Tasks: Sourced and installed a new screen on the Samsung Galaxy Tab A9+. Used a help desk ticketing platform to document the entire process from the initial issue to the final resolution.
+Key Tasks: Planned: replace the screen on the Samsung Galaxy Tab A9+ and document the whole repair as a help desk ticket, from issue to resolution.
 **Status:** Planned — Not Yet Completed
 
 Phase 9: Honeypot Deployment
 Goal: To deploy a defensive security tool that can detect and log malicious activity.
-Key Tasks: Installed and configured a honeypot on one of your systems to act as a decoy for attackers. Analysed the logs to understand common attack patterns and behaviours.
+Key Tasks: Planned: deploy a honeypot on the lab network and analyse its logs for common attack patterns.
 **Status:** Planned — Not Yet Completed
 
 Phase 10: Portfolio Creation & Final Documentation
 Goal: To create a professional portfolio that showcases all your projects and skills.
-Key Tasks: Used GitHub Pages to publish a portfolio website. Wrote a professional README.md and created individual walkthroughs for each project phase, including images and clear explanations of the outcomes.
+Key Tasks: Planned: publish a portfolio site with GitHub Pages, with a walkthrough for each phase.
 **Status:** Planned — Not Yet Completed
 
 
