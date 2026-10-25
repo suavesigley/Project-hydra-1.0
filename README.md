@@ -101,7 +101,7 @@ Key Tasks: Planned: publish a portfolio site with GitHub Pages, with a walkthrou
 
 
 ## 🏆 Certifications & Training
-* **ISC2 Certified in Cybersecurity (CC) ** | ISC2 | 2024
+* **ISC2 Certified in Cybersecurity (CC) ** | ISC2 | 2025
 
 * **Exploring Networking with Cisco packet tracer** | Cisco Network Academy  | 2024
 * **Getting started with Cisco packet tracer** | Cisco Network Academy  | 2024
